@@ -12,7 +12,7 @@ const WHATSAPP_NUMBER = '2290169777434';
 
 // Enregistrement des commandes dans une feuille Google (recommandé, surtout pour TikTok).
 // Collez ici l'adresse de l'application Web (voir outils/google-sheet.gs). Laisser vide = désactivé.
-const ORDERS_ENDPOINT = 'https://script.google.com/macros/s/AKfycbxa9zMcJa71aj3o651s08k6n7JBOzeHRMbEOcVhcPWycl9Kc5EjZEKbgeJHe7DkZxIhEg/exec';
+const ORDERS_ENDPOINT = 'https://script.google.com/macros/s/AKfycbyaLtiaSkO52sizwfdDsL4W3vWx0ofy4ZKN5J0ea0BbK6QJ7v56U022Lg58rEYm8kVnzA/exec';
 
 // Pays proposés dans le formulaire.
 // Bénin, Côte d’Ivoire et Sénégal : prix en FCFA. France : prix en euros (voir OFFERS.eur).
